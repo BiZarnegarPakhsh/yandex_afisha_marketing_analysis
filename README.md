@@ -29,6 +29,7 @@ All analysis is implemented in **`notebook.ipynb`** using **Python (Pandas/NumPy
 ## Project Structure
 ```
  .
+  │── LICENSE
   │── notebook.ipynb
   │── README.md
   │── requirements.txt
